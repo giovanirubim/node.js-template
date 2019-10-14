@@ -1,0 +1,7 @@
+{
+	"host": "localhost",
+	"user": "root",
+	"database": "mydb",
+	"password": "admin123",
+	"connectionLimit": 20
+}
